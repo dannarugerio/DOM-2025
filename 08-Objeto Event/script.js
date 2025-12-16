@@ -61,5 +61,5 @@ document.addEventListener("mousemove" , (e) => {
   // console.log(e.type);
   // console.log(e.clientX)
   // console.log(e.clientY)
-  console.log('Las oordenadas de mi mause con x: ${e.clientX} y de y: ${e.clientY} y pues espo!');
+  console.log('Las coordenadas de mi mouse con x: ${e.clientX} y de y: ${e.clientY} y pues espo!');
 })
